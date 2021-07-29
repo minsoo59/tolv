@@ -63,7 +63,7 @@ header {
 .wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: calc($fullScreen - 60px);
+  grid-template-rows: calc(100vh - 60px);
   // height: $fullScreen * 5;
   .wrapper__photo {
     background-image: $bgImageUrl;
