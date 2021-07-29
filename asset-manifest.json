@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https//minsoo59.github.io/tolv/static/css/main.b2b04538.chunk.css",
-    "main.js": "/https//minsoo59.github.io/tolv/static/js/main.acfc5495.chunk.js",
-    "main.js.map": "/https//minsoo59.github.io/tolv/static/js/main.acfc5495.chunk.js.map",
-    "runtime-main.js": "/https//minsoo59.github.io/tolv/static/js/runtime-main.97078ab6.js",
-    "runtime-main.js.map": "/https//minsoo59.github.io/tolv/static/js/runtime-main.97078ab6.js.map",
-    "static/js/2.e6115a6b.chunk.js": "/https//minsoo59.github.io/tolv/static/js/2.e6115a6b.chunk.js",
-    "static/js/2.e6115a6b.chunk.js.map": "/https//minsoo59.github.io/tolv/static/js/2.e6115a6b.chunk.js.map",
-    "index.html": "/https//minsoo59.github.io/tolv/index.html",
-    "static/css/main.b2b04538.chunk.css.map": "/https//minsoo59.github.io/tolv/static/css/main.b2b04538.chunk.css.map",
-    "static/js/2.e6115a6b.chunk.js.LICENSE.txt": "/https//minsoo59.github.io/tolv/static/js/2.e6115a6b.chunk.js.LICENSE.txt"
+    "main.css": "/tolv/static/css/main.b2b04538.chunk.css",
+    "main.js": "/tolv/static/js/main.acfc5495.chunk.js",
+    "main.js.map": "/tolv/static/js/main.acfc5495.chunk.js.map",
+    "runtime-main.js": "/tolv/static/js/runtime-main.2d4ed129.js",
+    "runtime-main.js.map": "/tolv/static/js/runtime-main.2d4ed129.js.map",
+    "static/js/2.e6115a6b.chunk.js": "/tolv/static/js/2.e6115a6b.chunk.js",
+    "static/js/2.e6115a6b.chunk.js.map": "/tolv/static/js/2.e6115a6b.chunk.js.map",
+    "index.html": "/tolv/index.html",
+    "static/css/main.b2b04538.chunk.css.map": "/tolv/static/css/main.b2b04538.chunk.css.map",
+    "static/js/2.e6115a6b.chunk.js.LICENSE.txt": "/tolv/static/js/2.e6115a6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97078ab6.js",
+    "static/js/runtime-main.2d4ed129.js",
     "static/js/2.e6115a6b.chunk.js",
     "static/css/main.b2b04538.chunk.css",
     "static/js/main.acfc5495.chunk.js"
