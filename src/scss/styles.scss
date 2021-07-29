@@ -1,0 +1,10 @@
+//defalut
+@import "./config/_reset";
+@import "./config/_elements";
+@import "./config/_variables";
+
+// components
+@import "./components/App.scss";
+
+// screens
+@import "./screens/index.scss";
