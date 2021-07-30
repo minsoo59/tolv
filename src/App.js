@@ -9,13 +9,13 @@ function App() {
       <header id="header" onScroll="scrollHandler">
         <ul>
           <li>
-            <a href="http://localhost:3000">Products</a>
+            <a href="https://minsoo59.github.io/tolv/">Products</a>
           </li>
           <li>
-            <a href="http://localhost:3000">Stockists</a>
+            <a href="https://minsoo59.github.io/tolv/">Stockists</a>
           </li>
           <li>
-            <a href="http://localhost:3000">About us</a>
+            <a href="https://minsoo59.github.io/tolv/">About us</a>
           </li>
         </ul>
         <div className="header__middle">
@@ -27,7 +27,6 @@ function App() {
           <i className="fas fa-search"></i>
         </div>
       </header>
-
       <main>
         <div className="wrapper">
           <div className="wrapper__photo"></div>
@@ -38,12 +37,12 @@ function App() {
             </h1>
             <p>
               <span>Featuring </span>
-              <a href="http://localhost:3000">Kitsune sofa</a>
+              <a href="https://minsoo59.github.io/tolv/">Kitsune sofa</a>
               <span>, </span>
-              <a href="http://localhost:3000">armchair</a>
+              <a href="https://minsoo59.github.io/tolv/">armchair</a>
               <span> and </span>
-              <a href="http://localhost:3000">I-O coffee table</a>
-              <a href="http://localhost:3000">(steel base)</a>
+              <a href="https://minsoo59.github.io/tolv/">I-O coffee table</a>
+              <a href="https://minsoo59.github.io/tolv/">(steel base)</a>
             </p>
           </div>
         </div>
@@ -57,7 +56,7 @@ function App() {
           </p>
           <p>
             Find out more
-            <a href="http://localhost:3000"> About us</a>
+            <a href="https://minsoo59.github.io/tolv/"> About us</a>
           </p>
         </div>
         <div className="middle__grid">
